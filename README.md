@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a ☁️Cloud Engineer engaging in DevOps practices with affinity for software. My everyday work consists on managing AWS and Kubernetes infrastructure. I enable developers across several teams in hosting and operating their backend and frontend applications at BMW Aftersales. I have 3 years of experience in the professional IT workspace. 
+I am a ☁️Cloud Engineer engaging in DevOps practices with affinity for software. My everyday work consists on managing AWS and Kubernetes infrastructure. I enable developers across several teams in hosting and operating their backend and frontend applications at BMW Aftersales. With 3 years of professional IT experience, I focus on implementing robust, scalable cloud solutions.
 
 My best achievement yet is [Rito Kids](https://www.ritokids.com/), an EdTech startup which I Co-Founded and which we've built up to 20k+ downloads📈. Rito Kids is an educational mobile application which helps children aged 4-8 learn handwriting in a fun, interactive way enabled by complex image processing algorithms.
 # Technical Skills 💻
@@ -21,7 +21,7 @@ I am a highly technical person. I would say the easiest way to catch my attentio
 - Managed applications written in Java (Quarkus), Flutter, Python and C#
 # Professional Experience 🔧
 ## ARRK Research & Development
-*Feb 2024 - Present*
+*Feb 2024 - Present* \
 **DevOps Engineer**
 - coordinated with previous BMW contractor for smooth handover of IT systems
 - operate on hybrid environments (on-prem and cloud)
@@ -31,19 +31,19 @@ I am a highly technical person. I would say the easiest way to catch my attentio
 	- get applications' AWS Security Score from 70-80% to 95%+ in 3 months after handover as a technical debt fix while maintaining high availability
 	- introduce a GitOps concept implemented with ArgoCD, Helm and Python
 ## Rito Kids 🐧
-*Nov 2021 - Present*
+*Nov 2021 - Present* \
 **Co-Founder & Software Engineer**
 - built an Educational Mobile App with 20k+ downloads and ~500MAU
 - best educational app at [Microsoft Imagine Cup EMEA](https://techcommunity.microsoft.com/blog/studentdeveloperblog/meet-the-2022-imagine-cup-world-finalists/3242062) as Manuscrito
 - grand prize at Innovation Labs
 - created handwriting recognition & scoring system
 ## 8x8
-*Jul 2022 - Oct 2022*
+*Jul 2022 - Oct 2022* \
 **DevOps Engineer Intern**
 - learned the basics of DevOps and worked on various small tasks
 # Education 🎓
 ## "Babes-Bolyai" University of Cluj-Napoca, Romania
-*Oct 2020 - Jul 2023*
+*Oct 2020 - Jul 2023* \
 **Bachelor's in Computer Science**
 Bachelor Thesis - "Message Queues: A Fair Analysis"
 - benchmarked Message Queues written in various languages (C++, Python and Rust) and parallelism paradigms (single threaded, multi threaded and async)
@@ -51,6 +51,6 @@ Bachelor Thesis - "Message Queues: A Fair Analysis"
 - [Prune Git Branches](https://github.com/Andrei-Vasil/prune-git-branches)
 - homelab used for educational purposes and personal use
 # Contact 📫
-LinkedIn: https://www.linkedin.com/in/andrei-vasil/
-Personal email: andrei.vasil.271@gmail.com
-Phone number: +40 746368816
+LinkedIn: https://www.linkedin.com/in/andrei-vasil/ \
+Personal email: andrei.vasil.271@gmail.com \
+Phone number: +40 746368816 \
