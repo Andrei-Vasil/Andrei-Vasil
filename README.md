@@ -1,13 +1,14 @@
 # Hi there 👋
 I am a ☁️Cloud Engineer engaging in DevOps practices with affinity for software. My everyday work consists on managing AWS and Kubernetes infrastructure. I enable developers across several teams in hosting and operating their backend and frontend applications at BMW Aftersales. With 3 years of professional IT experience, I focus on implementing robust, scalable cloud solutions.
 
-My best achievement yet is [Rito Kids](https://www.ritokids.com/), an EdTech startup which I Co-Founded and which we've built up to 20k+ downloads📈. Rito Kids is an educational mobile application which helps children aged 4-8 learn handwriting in a fun, interactive way enabled by complex image processing algorithms.
+My best achievement yet is [Rito Kids](https://www.ritokids.com/), an EdTech startup which I Co-Founded and built up to 20k+ downloads📈. Rito Kids is an educational cross-platform mobile application which helps children aged 4-8 learn handwriting in a fun, interactive way enabled by complex image processing algorithms.
 # Technical Skills 💻
-I am a highly technical person. I would say the easiest way to catch my attention is to engage in a discussion about the latest technologies, hardware or methodologies used for hosting and operating whatever kind of software.
+I am a highly technical person. I would say the easiest way to catch my attention is to engage in a discussion about the latest technologies, hardware or methodologies used for hosting and operating whatever kind of software. \
+I use [neovim](https://neovim.io/) btw 📖
 ## My tech stack
 ### Infrastructure
 - AWS for Cloud - Architecture design & implementation
-- Terraform for Infrastructure as Code (IaC) and Configuration Management
+- Terraform for Infrastructure as Code (IaC)
 - Docker and Podman for Containerization
 - Kubernetes and Docker Compose for Orchestration
 - Linux (Amazon Linux 2 and Ubuntu) for OS
