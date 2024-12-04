@@ -53,4 +53,4 @@ Bachelor Thesis - "Message Queues: A Fair Analysis"
 # Contact 📫
 LinkedIn: https://www.linkedin.com/in/andrei-vasil/ \
 Personal email: andrei.vasil.271@gmail.com \
-Phone number: +40 746368816
+Phone number: +40 746 368 816
