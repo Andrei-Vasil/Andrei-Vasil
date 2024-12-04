@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a ☁️Cloud Engineer engaging in DevOps practices with affinity for software. My everyday work consists on managing AWS and Kubernetes infrastructure. I enable developers across several teams in hosting and operating their backend and frontend applications at BMW Aftersales. With 3 years of professional IT experience, I focus on implementing robust, scalable cloud solutions.
+I am a ☁️Cloud Engineer engaging in DevOps practices, with affinity for software. My everyday work consists on managing AWS and Kubernetes infrastructure. I enable developers across several teams in hosting and operating their backend and frontend applications at BMW Aftersales. With 3 years of professional IT experience, I focus on implementing robust, scalable cloud solutions.
 
 My best achievement yet is [Rito Kids](https://www.ritokids.com/), an EdTech startup which I Co-Founded and built up to 20k+ downloads📈. Rito Kids is an educational cross-platform mobile application which helps children aged 4-8 learn handwriting in a fun, interactive way enabled by complex image processing algorithms.
 # Technical Skills 💻
