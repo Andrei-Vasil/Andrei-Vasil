@@ -4,7 +4,7 @@ I am a ☁️Cloud Engineer engaging in DevOps practices with affinity for softw
 My best achievement yet is [Rito Kids](https://www.ritokids.com/), an EdTech startup which I Co-Founded and built up to 20k+ downloads📈. Rito Kids is an educational cross-platform mobile application which helps children aged 4-8 learn handwriting in a fun, interactive way enabled by complex image processing algorithms.
 # Technical Skills 💻
 I am a highly technical person. I would say the easiest way to catch my attention is to engage in a discussion about the latest technologies, hardware or methodologies used for hosting and operating whatever kind of software. \
-I use 📖[neovim](https://neovim.io/) btw
+I use [neovim](https://neovim.io/) btw 📖
 ## My tech stack
 ### Infrastructure
 - AWS for Cloud - Architecture design & implementation
