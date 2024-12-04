@@ -5,20 +5,24 @@ My best achievement yet is [Rito Kids](https://www.ritokids.com/), an EdTech sta
 # Technical Skills 💻
 I am a highly technical person. I would say the easiest way to catch my attention is to engage in a discussion about the latest technologies, hardware or methodologies used for hosting and operating whatever kind of software.
 ## My tech stack
-- AWS for Cloud
+### Infrastructure
+- AWS for Cloud - Architecture design & implementation
 - Terraform for Infrastructure as Code (IaC) and Configuration Management
 - Docker and Podman for Containerization
 - Kubernetes and Docker Compose for Orchestration
+- Linux (Amazon Linux 2 and Ubuntu) for OS
+### DevOps
 - GitHub Actions ([previously used Jenkins as well](#8x8)) for CI/CD
+- Git and GitHub for Version Control
+- Managed applications written in Java (Quarkus), Flutter, Python and C#
 - Grafana Stack (Prometheus, Grafana, Loki) for Monitoring & Logging
 - ITSM for Alert & Incident Management
+### Automation
 - Bash and Python for Scripting
 - Go for writing various custom functionality or custom Terraform providers
-- Git and GitHub for Version Control
-- Linux for OS (both personally and on servers)
-- Jira for Agile
+### Agile
 - Markdown (usually on GitHub) and Confluence for Documentation
-- Managed applications written in Java (Quarkus), Flutter, Python and C#
+- Jira for Task Management
 # Professional Experience 🔧
 ## ARRK Research & Development
 *Feb 2024 - Present* \
