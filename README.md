@@ -10,7 +10,7 @@ I am a highly technical person. I would say the easiest way to catch my attentio
 I use [neovim](https://neovim.io/) btw📖
 ## My tech stack
 ### Infrastructure
-- AWS for Cloud - Architecture design & implementation
+- AWS for Cloud - architecture design & implementation
 - Terraform for Infrastructure as Code (IaC)
 - Docker and Podman for Containerization
 - Kubernetes and Docker Compose for Orchestration
