@@ -16,7 +16,7 @@ I use [neovim](https://neovim.io/) btw📖
 - Kubernetes and Docker Compose for Orchestration
 - Linux (Amazon Linux 2 and Ubuntu) for OS
 ### DevOps
-- GitHub Actions ([previously used Jenkins as well](#8x8)) for CI/CD
+- GitHub Actions ([previously used Jenkins as well](#8x8)) and ArgoCD for CI/CD
 - Git and GitHub for Version Control
 - Managed applications written in Java (Quarkus), Flutter, Python and C#
 - Grafana Stack (Prometheus, Grafana, Loki) for Monitoring & Logging
