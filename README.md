@@ -33,7 +33,7 @@ I use [neovim](https://neovim.io/) btw📖
 # Professional Experience 🔧
 
 ## N26
-*Feb 2024 - Jul 2025* \
+*Jul 2025 - Present* \
 **Site Reliability Engineer**
 - managing istio service mesh
 - managing several services of mesh team
